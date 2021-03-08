@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/aerotechnical/static/css/main.06383118.chunk.css",
+    "main.js": "/aerotechnical/static/js/main.43de15cd.chunk.js",
+    "main.js.map": "/aerotechnical/static/js/main.43de15cd.chunk.js.map",
+    "runtime-main.js": "/aerotechnical/static/js/runtime-main.ca62439b.js",
+    "runtime-main.js.map": "/aerotechnical/static/js/runtime-main.ca62439b.js.map",
+    "static/css/2.d88ace5d.chunk.css": "/aerotechnical/static/css/2.d88ace5d.chunk.css",
+    "static/js/2.196e052f.chunk.js": "/aerotechnical/static/js/2.196e052f.chunk.js",
+    "static/js/2.196e052f.chunk.js.map": "/aerotechnical/static/js/2.196e052f.chunk.js.map",
+    "index.html": "/aerotechnical/index.html",
+    "static/css/2.d88ace5d.chunk.css.map": "/aerotechnical/static/css/2.d88ace5d.chunk.css.map",
+    "static/css/main.06383118.chunk.css.map": "/aerotechnical/static/css/main.06383118.chunk.css.map",
+    "static/js/2.196e052f.chunk.js.LICENSE.txt": "/aerotechnical/static/js/2.196e052f.chunk.js.LICENSE.txt",
+    "static/media/about.5342ef52.svg": "/aerotechnical/static/media/about.5342ef52.svg",
+    "static/media/android.fbea4d7d.svg": "/aerotechnical/static/media/android.fbea4d7d.svg",
+    "static/media/app.468262ff.svg": "/aerotechnical/static/media/app.468262ff.svg",
+    "static/media/digital.87c13c07.svg": "/aerotechnical/static/media/digital.87c13c07.svg",
+    "static/media/home.4715ac4b.svg": "/aerotechnical/static/media/home.4715ac4b.svg",
+    "static/media/market.8bd6fb0e.svg": "/aerotechnical/static/media/market.8bd6fb0e.svg",
+    "static/media/software.cd4da263.svg": "/aerotechnical/static/media/software.cd4da263.svg",
+    "static/media/web.d672408b.svg": "/aerotechnical/static/media/web.d672408b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca62439b.js",
+    "static/css/2.d88ace5d.chunk.css",
+    "static/js/2.196e052f.chunk.js",
+    "static/css/main.06383118.chunk.css",
+    "static/js/main.43de15cd.chunk.js"
+  ]
+}
